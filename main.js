@@ -3,7 +3,7 @@ function addFrance() {
     var displayDiv = document.getElementById("displayFrance");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "France";
+    displayDiv.innerHTML = "France: Showers, 10°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -14,7 +14,7 @@ function addAustralia() {
     var displayDiv = document.getElementById("displayAustralia");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "Australia";
+    displayDiv.innerHTML = "Australia: Mostly Sunny, 25°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -25,7 +25,7 @@ function addChina() {
     var displayDiv = document.getElementById("displayChina");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "China";
+    displayDiv.innerHTML = "China: Sunny, 29°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -36,7 +36,7 @@ function addSouthSudan() {
     var displayDiv = document.getElementById("displaySouthSudan");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "South Sudan";
+    displayDiv.innerHTML = "South Sudan: Sunny, 26°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -47,7 +47,7 @@ function addSweden() {
     var displayDiv = document.getElementById("displaySweden");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "Sweden";
+    displayDiv.innerHTML = "Sweden: Partly Cloudy, 20°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -59,7 +59,7 @@ function addBrazil() {
     var displayDiv = document.getElementById("displayBrazil");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "Brazil";
+    displayDiv.innerHTML = "Brazil: Sunny, 30°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";
@@ -71,7 +71,7 @@ function addUSA() {
     var displayDiv = document.getElementById("displayUSA");
 
     // Update the content of the displayDiv
-    displayDiv.innerHTML = "USA";
+    displayDiv.innerHTML = "USA: Cloudy, 15°";
 
     // Show the displayDiv
     displayDiv.style.display = "block";

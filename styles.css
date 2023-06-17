@@ -439,44 +439,44 @@ button[type="button"] {
 }
 
 .australia{
-  top: 67%;
+  top: 64%;
   left: 60%;
 }
 
 .china{
-  top: 55%;
+  top: 54%;
   left: 57%;
 }
 
 .usa{
-  top: 55%;
+  top: 53%;
   left: 41%;
 }
 
 .brazil{
-  top: 63.5%;
-  left: 44.3%;
+  top: 62%;
+  left: 45%;
 }
 
 .sweden{
-  top: 49%;
+  top: 47%;
   left: 50.3%;
 }
 
 .france{
-  top: 53%;
+  top: 51%;
   left: 49.3%;
 }
 
 .south-sudan{
-  top: 67%;
+  top: 64%;
   left: 51%;
 }
 
 .country-info {
   display: none;
   background-color: purple;
-  color: black;
+  color: white;
   margin-top: 10px;
   padding: 20px;
   border-radius: 10mm;
