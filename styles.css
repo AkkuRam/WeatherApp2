@@ -472,3 +472,12 @@ button[type="button"] {
   top: 67%;
   left: 51%;
 }
+
+.country-info {
+  display: none;
+  background-color: purple;
+  color: black;
+  margin-top: 10px;
+  padding: 20px;
+  border-radius: 10mm;
+}
